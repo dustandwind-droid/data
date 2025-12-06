@@ -1,7 +1,6 @@
 The LLM generated and LLM annotated AD signs/symptoms dataset.
 Reach 80% performances of real world data.
 
-Details: https://www.medrxiv.org/content/10.1101/2025.09.09.25335422v1
 
 
 Class 1: Cognitive impairment 
